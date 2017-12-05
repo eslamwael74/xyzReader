@@ -19,6 +19,11 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
 
+        <item name="colorPrimary" > @color/colorprimary</item>
+        <item name="colorPrimaryDark" > @color/accent</item>
+        <item name="colorAccent" > @color/accent</item>
+
+
     </style>
 
     <style name="Theme.Bacon.Detail">

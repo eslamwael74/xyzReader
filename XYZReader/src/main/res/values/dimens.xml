@@ -10,5 +10,8 @@
     <dimen name="text_padding16">16dp</dimen>
     <dimen name="text_padding12">12dp</dimen>
     <dimen name="text_padding8">8dp</dimen>
+    <dimen name="text_margin8">8dp</dimen>
+    <dimen name="text_margin12">12dp</dimen>
+    <dimen name="text_margin4">4dp</dimen>
 
 </resources>
